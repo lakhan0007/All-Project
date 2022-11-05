@@ -2,6 +2,7 @@ body{
     background-color: black;
     margin: 0%;
     padding: 0;
+    overflow: hidden;
 }
 
 .project{
@@ -24,6 +25,7 @@ body{
         border-radius: 5px;
         color: white;
         box-shadow: 10px 10px 15px rgb(54, 93, 184);
+        text-decoration: none;
     }
     .btn:hover{
         background-color: orange;
@@ -31,5 +33,5 @@ body{
 }
 
 .div{
-    margin-bottom: 10%;
+    margin-bottom: 9%;
 }
