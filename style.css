@@ -1,5 +1,5 @@
 body{
-    background-color: white;
+    background-color: rgb(191, 158, 130) !important;
     margin: 0 auto;
     padding: 0 auto; 
     
@@ -7,7 +7,7 @@ body{
 }
 
 .h1{
-    color: rgb(43, 255, 0);
+    color: black;
     font-size: 20px;
     text-decoration: underline;
     text-align: center;
@@ -21,15 +21,15 @@ body{
         /* height: 100px; */
          width: 150px; 
         font-size: 20px;
-        background: transparent;
+        background-color: lightgrey !important;
         padding: 15px 20px;
         border-radius: 5px;
-        color: rgb(13, 255, 0) !important;
-        box-shadow: 10px 10px 15px rgb(54, 93, 184);
+        color: black !important;
+        box-shadow: 10px 10px 15px rgb(16, 79, 225);
         text-decoration: none;
         font-weight: bold;
     }
 .btn:hover{
-        background-color: orange;
+        background-color: coral !important;
         color:aqua;
 }
