@@ -50,7 +50,7 @@ body{
     color: #1fe8b6 !important;
     padding: 15px 20px;
     border: 3px solid #1fe8b6 !important;
-    position: relative;
+    position: relative; 
     /* position: absolute; */
     top: 50%;
     left: 50%;
@@ -83,7 +83,7 @@ body{
 .btn:hover::after{
     width: calc(100% + 27px);
     height: calc(100% + 27px);
-} 
+}  
 
 /* 
 .btn{
@@ -111,11 +111,11 @@ body{
     width: 150%;
     height: 150%;
     background-color: #7eff82;
-    transform: scale(0) skewX(10deg);
+    transform: scale(0) skewX(0deg);
     transform-origin: left top;
     transition: transform 1s;
 }
 
 .btn:hover::before{
-    transform: scale(1) skewX(10deg);
-}   */
+    transform: scale(1) skewX(0deg);
+}    */
