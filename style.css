@@ -2,7 +2,7 @@
 
 
 body{
-    background-color: #1a1b26 !important;
+    background-color: black !important;
     font-family: 'Poppins', sans-serif;
     margin: 0 auto;
     padding: 0 auto; 
@@ -11,13 +11,13 @@ body{
 }
 
 .h1{
-    color: rgb(193, 231, 56);
+    color: aqua;
     font-size: 20px;
     text-decoration: underline;
     text-align: center;
     font-weight: bold;
     font-size: 1.8rem;
-    text-shadow: 4px 4px 5px rgb(50, 212, 50);
+    text-shadow: 3px 3px 4px white;
     padding: 3%;
     text-transform: uppercase;
 
@@ -49,10 +49,10 @@ body{
     font-size: 25px;
     color: #1fe8b6 !important;
     padding: 15px 20px;
-    border: 3px solid #1fe8b6 !important;
+    border: 3px solid #1ae4b2 !important;
     position: relative; 
-    top: 50%;
-    left: 50%;
+    top: 100%;
+    left: 50% ;
     transform: translate(-50%, -50%);
 }
 
